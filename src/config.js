@@ -7,7 +7,7 @@ function getApiUrl() {
 }
 
 const config = {
-  API_URL: getApiUrl()
+  API_URL: 'https://api.portrait.gg/api/v1/'
 }
 
 export default config
